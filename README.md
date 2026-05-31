@@ -1,21 +1,3 @@
-## ⚽ WillData — Fútbol y Analítica
-
-Más allá del riesgo de crédito, tengo una pasión por el análisis de datos
-aplicado al fútbol. Estoy construyendo WillData, un proyecto personal
-orientado a generar informes tácticos y estadísticos de partidos,
-con el objetivo de convertirse en una plataforma de analítica futbolera.
-
-- Twitter/X: https://x.com/Will_Data_
-- Proyecto: https://github.com/WillCorrea10/informe_partidos_NAL
-
----
-
-## 📫 Contacto
-
-- LinkedIn: https://www.linkedin.com/in/william-correa-2a1a451b2
-- Twitter/X: https://x.com/Will_Data_
-- GitHub: https://github.com/WillCorrea10# Hola, soy William Correa 👋
-
 ### Analista Semi Senior de Riesgo de Crédito | Credit Risk Analytics | Fintech
 
 Ingeniero Financiero con más de 5 años de experiencia en banca y fintech.
@@ -57,8 +39,6 @@ Actualmente profundizando en Data Science aplicada a Credit Risk. 🚀
 - Segmentación de Clientes y Análisis de Cohortes
 - Dashboards y Monitoreo de KPIs
 - Experimentación y Pruebas de Riesgo
-
----
 
 ---
 
