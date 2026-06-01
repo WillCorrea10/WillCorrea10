@@ -1,4 +1,4 @@
-### Analista Semi Senior de Riesgo de Crédito | Credit Risk Analytics | Fintech
+### Analista de Riesgo de Crédito | Credit Risk Analytics | Fintech
 
 Ingeniero Financiero con más de 5 años de experiencia en banca y fintech.
 He desarrollado mi carrera en estrategias de originación, seguimiento de
